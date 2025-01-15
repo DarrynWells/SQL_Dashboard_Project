@@ -1,0 +1,16 @@
+"item_id","sku","item_name","item_cat","item_size","item_price"
+it001,PIZZ-MARG-R,Margherita,Pizza,Regular,12.00
+it002,PIZZ-MARG-L,Margherita,Pizza,Large,14.00
+it003,PIZZ-DIAV-R,Diovala,Pizza,Regular,16.00
+it004,PIZZ-DIAV-L,Diovala,Pizza,Large,19.00
+it005,PIZZ-PARM-R,Parmigiana,Pizza,Regular,15.00
+it006,PIZZ-PARM-L,Parmigiana,Pizza,Large,18.00
+it007,PIZZ-PEPP-R,Pepperoni,Pizza,Regular,15.00
+it008,PIZZ-PEPP-L,"Pepperoni
+",Pizza,Large,17.00
+it009,SIDE-GARL-R,Garlic Bread,Side,Regular,6.00
+it010,SIDE-BREA-R,Breadsticks,Side,Regular,5.00
+it011,DESS-ICE-VANI,Vanilla Ice Cream,Dessert,Regular,6.00
+it012,DESS-BANO-PIE,Banoffee Pie,Dessert,Regular,7.00
+it013,BEVE-COCA-COLA,Coca Cola,Beverage,"33cl",3.00
+it014,BEVE-COCA-COLA,Coca Cola,Beverage,"1.5l",6.00
